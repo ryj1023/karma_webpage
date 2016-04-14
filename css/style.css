@@ -1,0 +1,96 @@
+body{
+	
+
+	background-color: LightGray;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #838994;
+	letter-spacing: 0.03em;
+}
+.top-navigation {
+	background-color: #fff;
+}
+.top-navigation > .content
+{
+	
+	height: 70px;
+	margin: 0 auto;
+	padding: 0rem 13rem;
+	}
+.top-navigation .links {
+    float: right;
+	color: #838994;
+    font-size: 1.04rem;
+    margin-top: 1.7rem;
+    -webkit-font-smoothing: antialiased;
+}
+.top-navigation .links li{
+	display: inline-block;
+	margin-left: 1.563rem;
+
+}
+.top-navigation .links .active {
+    color: #4c5058;
+    font-weight: 500;
+}
+.top-navigation .links li:hover {
+cursor: pointer;
+color: #333333;
+}
+
+div{
+	border: 1px solid Chocolate;
+}
+.introduction{
+	background-image: url(file:///Users/ryanjohnson/projects/startup-landing-page-clone/css/first-background%20copy.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+    overflow: auto;
+}
+
+.introduction h1, .introduction h3 
+{
+	text-align: center;
+	color: white;
+	font-weight: 300;
+}
+
+.introduction h1{
+	margin-top: 12.5rem;
+	font-size: 3.125rem;
+	margin-bottom: 0rem;
+}
+
+.introduction h3{
+	margin-top: 1em;
+    font-size: 1.563rem;
+
+}
+.introduction .buttons{
+	 color: white;
+    text-align: center;
+    margin-top: 1.563rem;
+
+}
+
+button {
+	width: 9.688rem;
+    background-color: #f15a29;
+    border-color: #f15a29;
+    text-shadow: none;
+    border-style: none;
+    border-radius: 4px;
+    padding: 1rem 1.5rem;
+    color: white;
+    font-size: 1.125rem;
+
+}
+
+button:hover{
+	background-color: #d9400e;
+	border-color: #cf3d0e;
+	cursor: pointer;
+}
+
