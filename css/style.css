@@ -55,7 +55,7 @@ color: #333333;
 
 
 .introduction{
-	background-image: url('file:///Users/ryanjohnson/projects/startup-landing-page-clone/css/first-background.jpg');
+	background-image: url('file://Users/ryanjohnson/projects/startup-landing-page-clone/css/first-background.jpg');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
